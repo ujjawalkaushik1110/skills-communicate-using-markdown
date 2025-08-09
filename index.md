@@ -7,6 +7,5 @@
 
 ![Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-'''Python
-print("Hello World!")
-'''
+var myVar = "Hello, world!";
+
